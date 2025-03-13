@@ -41,7 +41,7 @@ The UV-5R and UV-5RA are functionally the same. The only differences are cosmeti
 TODO: Check UV-5RA compatibility with 3800mAh
 
 ### Recommendation
-Buy: **UV-5R**!!!
+[Buy: **UV-5R**!!!](https://youtu.be/f7vhyw0wvOY)
 
 ## References
 
