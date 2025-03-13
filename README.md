@@ -13,3 +13,5 @@ https://youtu.be/NySed2hQzPA
 ## How to use CHIRP
 
 https://youtu.be/XQ_JzivmjyI
+
+https://chirpmyradio.com/projects/chirp/wiki/Home
